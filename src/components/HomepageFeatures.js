@@ -13,6 +13,11 @@ const FeatureList = [
     Svg: require("../../static/img/undraw_docusaurus_tree.svg").default,
     description: <>Available in Hindi and English</>,
   },
+  {
+    title: "Mobile and Desktop",
+    Svg: require("../../static/img/undraw_docusaurus_react.svg").default,
+    description: <>Available on both Mobile and Desktop Devices</>,
+  },
 ];
 
 function Feature({ Svg, title, description }) {
