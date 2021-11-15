@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "ALT.IGNOU",
-  tagline: "IGNOU is awesome",
+  title: "Ignouwala",
+  tagline: "IGNOU is Awesome",
   url: "https://bimlu.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -42,7 +42,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "ALT.IGNOU",
+        title: "IGNOUWALA",
         logo: {
           alt: "IGNOUWALA Logo",
           src: "img/logo.png",
@@ -78,7 +78,7 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "IGNOUWALA",
+                label: "IGNOU Students Network",
                 href: "https://network.ignouwala.com",
               },
               {
@@ -97,6 +97,10 @@ const config = {
               {
                 label: "IGNOU Blog",
                 to: "/blog",
+              },
+              {
+                label: "IGNOU Study Material Library",
+                href: "https://library.ignouwala.com",
               },
               {
                 label: "GitHub",
