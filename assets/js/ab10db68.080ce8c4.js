@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[443],{3995:function(l){l.exports=JSON.parse('{"allTagsPath":"https://github.com/bimlu/ignou-alt/blog/tags","slug":"https://github.com/bimlu/ignou-alt/blog/tags/hello","name":"hello","count":2,"permalink":"https://github.com/bimlu/ignou-alt/blog/tags/hello"}')}}]);
