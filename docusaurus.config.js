@@ -55,6 +55,7 @@ const config = {
             label: "IGNOU Information",
           },
           { to: "/blog", label: "IGNOU Blog", position: "left" },
+          { to: "/docs/faqs", label: "IGNOU FAQs", position: "left" },
           {
             href: "https://github.com/bimlu/ignou-alt",
             label: "GitHub",
@@ -75,6 +76,10 @@ const config = {
               {
                 label: "IGNOU Blog",
                 to: "/blog",
+              },
+              {
+                label: "IGNOU FAQs",
+                to: "/docs/faqs",
               },
               {
                 label: "IGNOU Study Material Library",
