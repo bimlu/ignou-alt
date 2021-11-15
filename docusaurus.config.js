@@ -6,8 +6,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Ignouwala",
-  tagline: "IGNOU is Awesome",
+  title: "IGNOU",
+  tagline: "Indira Gandhi National Open University",
   url: "https://bimlu.github.io",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -66,21 +66,29 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "IGNOU",
+            title: "IGNOUWALA",
             items: [
               {
                 label: "IGNOU Information",
                 to: "/docs/intro",
+              },
+              {
+                label: "IGNOU Blog",
+                to: "/blog",
+              },
+              {
+                label: "IGNOU Study Material Library",
+                href: "https://library.ignouwala.com",
+              },
+              {
+                label: "IGNOU Students Network",
+                href: "https://network.ignouwala.com",
               },
             ],
           },
           {
             title: "Community",
             items: [
-              {
-                label: "IGNOU Students Network",
-                href: "https://network.ignouwala.com",
-              },
               {
                 label: "Twitter",
                 href: "https://twitter.com/ignouwala",
@@ -94,14 +102,6 @@ const config = {
           {
             title: "More",
             items: [
-              {
-                label: "IGNOU Blog",
-                to: "/blog",
-              },
-              {
-                label: "IGNOU Study Material Library",
-                href: "https://library.ignouwala.com",
-              },
               {
                 label: "GitHub",
                 href: "https://github.com/bimlu/ignou-alt",
