@@ -9,7 +9,7 @@ const config = {
   title: "ALT.IGNOU",
   tagline: "IGNOU is awesome",
   url: "https://bimlu.github.io",
-  baseUrl: "/ignou-alt/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "My Site",
+        title: "ALT.IGNOU",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/logo.png",
         },
         items: [
           {
