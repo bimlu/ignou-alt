@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[953],{1323:function(u){u.exports=JSON.parse('{"allTagsPath":"/ignou-alt/blog/tags","slug":"/ignou-alt/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/ignou-alt/blog/tags/docusaurus"}')}}]);

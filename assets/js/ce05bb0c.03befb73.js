@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[683],{3774:function(g){g.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/greetings","name":"greetings","count":1,"permalink":"/blog/tags/greetings"}')}}]);
