@@ -24,12 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/bimlu/ignou-alt/edit/main/docs/",
+          editUrl: "https://github.com/bimlu/ignou-alt/edit/main/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/bimlu/ignou-alt/edit/main/blog/",
+          editUrl: "https://github.com/bimlu/ignou-alt/edit/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -52,9 +52,9 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Tutorial",
+            label: "IGNOU Information",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "IGNOU Blog", position: "left" },
           {
             href: "https://github.com/bimlu/ignou-alt",
             label: "GitHub",
@@ -66,10 +66,10 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "IGNOU",
             items: [
               {
-                label: "Tutorial",
+                label: "IGNOU Information",
                 to: "/docs/intro",
               },
             ],
@@ -95,7 +95,7 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Blog",
+                label: "IGNOU Blog",
                 to: "/blog",
               },
               {
