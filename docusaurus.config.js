@@ -24,13 +24,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/facebook/docusaurus/edit/main/website/",
+          editUrl: "https://github.com/bimlu/ignou-alt/edit/main/docs/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/main/website/blog/",
+          editUrl: "https://github.com/bimlu/ignou-alt/edit/main/blog/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -45,7 +44,7 @@ const config = {
       navbar: {
         title: "ALT.IGNOU",
         logo: {
-          alt: "My Site Logo",
+          alt: "IGNOUWALA Logo",
           src: "img/logo.png",
         },
         items: [
@@ -57,7 +56,7 @@ const config = {
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
-            href: "https://github.com/facebook/docusaurus",
+            href: "https://github.com/bimlu/ignou-alt",
             label: "GitHub",
             position: "right",
           },
@@ -79,16 +78,16 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
-              },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                label: "IGNOUWALA",
+                href: "https://network.ignouwala.com",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/ignouwala",
+              },
+              {
+                label: "Discord",
+                href: "https://discord.gg/dJAmVm3Zde",
               },
             ],
           },
@@ -101,12 +100,12 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/bimlu/ignou-alt",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} IGNOUWALA`,
       },
       prism: {
         theme: lightCodeTheme,
