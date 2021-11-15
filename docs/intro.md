@@ -48,4 +48,4 @@ Follow us on [Twitter](https://twitter.com/ignouwala).
 ## Special Thanks
 
 _ignou.ac.in_  
-\_samarth.edu.in_Let's discover **Docusaurus in less than 5 minutes**.
+_samarth.edu.in_
