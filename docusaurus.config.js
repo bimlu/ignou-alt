@@ -9,7 +9,7 @@ const config = {
   title: "ALT.IGNOU",
   tagline: "IGNOU is awesome",
   url: "https://bimlu.github.io",
-  baseUrl: "https://github.com/bimlu/ignou-alt/",
+  baseUrl: "/ignou-alt/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
