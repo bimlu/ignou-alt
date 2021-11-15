@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Courses and Programmes"
-sidebar_position: 5
+sidebar_position: 6
 ---
 
 # Courses and Programmes

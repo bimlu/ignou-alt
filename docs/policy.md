@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Policy and Contact"
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Policy and Contact
