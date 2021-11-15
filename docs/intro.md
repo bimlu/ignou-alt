@@ -1,5 +1,8 @@
 ---
+sidebar_label: Introduction
 sidebar_position: 1
+slug: /
+id: intro
 ---
 
 # IGNOUWALA

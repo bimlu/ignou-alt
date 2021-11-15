@@ -71,7 +71,7 @@ const config = {
             items: [
               {
                 label: "IGNOU Information",
-                to: "/docs/intro",
+                to: "/docs",
               },
               {
                 label: "IGNOU Blog",
