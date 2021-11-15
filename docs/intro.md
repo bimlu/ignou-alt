@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# ALT.IGNOU
+# IGNOUWALA
 
-## alt.ignouwala.com
+## ignouwala.com
 
 > Online IGNOU Information Center.
 
 ## What it is
 
-alt.ignouwala.com provides all kinds of Information and FAQs about IGNOU (Indira Gandhi National Open University).
+ignouwala.com provides all kinds of Information and FAQs about IGNOU (Indira Gandhi National Open University).
 
 All the data is in this website is extracted from IGNOU Common Prospectus (July-2021) which is available at http://ignou.ac.in/userfiles/Common-Prospectus-English.pdf.
 
