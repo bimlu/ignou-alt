@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[601],{6128:function(l){l.exports=JSON.parse('{"permalink":"https://github.com/bimlu/ignou-alt/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

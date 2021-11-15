@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[86],{8218:function(g){g.exports=JSON.parse('{"allTagsPath":"/ignou-alt/blog/tags","slug":"/ignou-alt/blog/tags/greetings","name":"greetings","count":1,"permalink":"/ignou-alt/blog/tags/greetings"}')}}]);
