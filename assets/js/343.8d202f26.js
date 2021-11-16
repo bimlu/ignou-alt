@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[343],{3343:function(u,n,e){e.r(n)}}]);
