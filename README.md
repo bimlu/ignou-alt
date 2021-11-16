@@ -17,7 +17,7 @@ Certificates issued by all Indian Universities/ Deemed Universities/ Institution
 
 ## IGNOU Information
 
-See [alt.ignouwala.com/docs](https://alt.ignouwala.com/docs)
+See [alt.ignouwala.com/docs/university](https://alt.ignouwala.com/docs/university)
 
 ## IGNOU FAQs
 
