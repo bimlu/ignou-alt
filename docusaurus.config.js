@@ -123,4 +123,7 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = {
+  ...config,
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
+};
