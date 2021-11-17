@@ -61,6 +61,10 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          {
+            type: "localeDropdown",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -121,10 +125,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
 
-module.exports = {
-  ...config,
   // plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
   plugins: [
     // ... Your other plugins.
@@ -142,4 +143,11 @@ module.exports = {
       },
     ],
   ],
+
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "hi"],
+  },
 };
+
+module.exports = config;

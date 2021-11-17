@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "IGNOUWALA",
+    "description": "The title in the navbar"
+  },
+  "item.label.IGNOU Information": {
+    "message": "IGNOU Information",
+    "description": "Navbar item with label IGNOU Information"
+  },
+  "item.label.IGNOU Blog": {
+    "message": "IGNOU Blog",
+    "description": "Navbar item with label IGNOU Blog"
+  },
+  "item.label.IGNOU FAQs": {
+    "message": "IGNOU FAQs",
+    "description": "Navbar item with label IGNOU FAQs"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
