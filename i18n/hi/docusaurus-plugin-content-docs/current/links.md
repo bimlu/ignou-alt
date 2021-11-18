@@ -1,6 +1,6 @@
 ---
 sidebar_label: "Important Links"
-sidebar_position: 8
+sidebar_position: 7
 ---
 
 # Important Links
