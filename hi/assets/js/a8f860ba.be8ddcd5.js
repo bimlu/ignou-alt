@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[201],{1609:function(l){l.exports=JSON.parse('{"allTagsPath":"/hi/blog/tags","slug":"/hi/blog/tags/hello","name":"hello","count":2,"permalink":"/hi/blog/tags/hello"}')}}]);

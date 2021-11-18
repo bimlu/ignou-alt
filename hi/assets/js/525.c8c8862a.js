@@ -1,0 +1,1 @@
+(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[525],{6165:function(){}}]);
