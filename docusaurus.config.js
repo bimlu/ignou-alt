@@ -124,6 +124,10 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      gtag: {
+        trackingID: "G-G91FVYC3HL",
+        // anonymizeIP: true, // Should IPs be anonymized?
+      },
     }),
 
   // plugins: [require.resolve("@cmfcmf/docusaurus-search-local")],
