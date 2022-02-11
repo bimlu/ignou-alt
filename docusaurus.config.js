@@ -9,7 +9,7 @@ const config = {
   title: "IGNOU",
   tagline: "Indira Gandhi National Open University",
   url: "https://bimlu.github.io",
-  baseUrl: "ignou-alt", // "/" --> alt.ignouwala.com and "ignou-alt" for bimlu.github.io/ignou-alt
+  baseUrl: "ignou-alt/", // "/" --> alt.ignouwala.com and "ignou-alt" for bimlu.github.io/ignou-alt/
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
