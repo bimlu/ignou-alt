@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkignou_alt=self.webpackChunkignou_alt||[]).push([[641],{6355:function(a){a.exports=JSON.parse('{"allTagsPath":"/hi/blog/tags","slug":"/hi/blog/tags/facebook","name":"facebook","count":1,"permalink":"/hi/blog/tags/facebook"}')}}]);
