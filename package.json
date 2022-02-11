@@ -7,7 +7,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "GIT_USER=bimlu GIT_PASS=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 docusaurus deploy",
+    "deploy": "GIT_USER=bimlu GIT_PASS=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 docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
